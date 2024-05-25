@@ -12,9 +12,17 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nhathao512&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathao512">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathao512&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table>
   <tbody>
     <tr>
@@ -45,5 +53,9 @@
     </tr>
   </tbody>
 </table>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nhathao512&icon=0&color=0)](https://visitcount.itsvg.in)
