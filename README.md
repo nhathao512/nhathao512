@@ -1,19 +1,85 @@
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vo.nhathao.512) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vonhathao_/) 
+<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nhathao512&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nhathao512&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhathao512&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=nhathao512&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
----
-[![](https://visitcount.itsvg.in/api?id=nhathao512&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  </a>
+  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
+## Skills:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+</p>
+
+## Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+# Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
