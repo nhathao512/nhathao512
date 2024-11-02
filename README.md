@@ -25,9 +25,9 @@
     
   </td>
   <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+    
+  ![CodingGIF](https://github.com/user-attachments/assets/47a88f63-0cdb-4b56-9714-c97124cbc93e)
+  
   </td>
   
 </table>
