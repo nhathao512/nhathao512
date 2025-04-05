@@ -37,54 +37,7 @@
   
 </table>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=nhathao512&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathao512">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathao512&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhathao512">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhathao512&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhathao512&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhathao512&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhathao512">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhathao512&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhathao512">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhathao512&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<!-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
--!>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nhathao512&icon=0&color=0)](https://visitcount.itsvg.in)
