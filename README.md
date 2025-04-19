@@ -2,10 +2,6 @@
 <p align="center">
   <h3 align="center">A future Software Developer from Vietnam</h3>
   
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhathao512&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views">
-</p>
-  
 </p>
 
 ## 🌐 Socials  
@@ -36,8 +32,10 @@
   
 </table>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhathao512&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nhathao512&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
