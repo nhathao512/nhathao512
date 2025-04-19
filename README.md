@@ -2,6 +2,10 @@
 <p align="center">
   <h3 align="center">A future Software Developer from Vietnam</h3>
   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhathao512&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views">
+</p>
+  
 </p>
 
 ## 🌐 Socials  
@@ -19,7 +23,7 @@
 <table style="width:100%;">
   <td> 
     
-  ![](https://github-readme-stats.vercel.app/api?username=nhathao512&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=nhathao512&theme=radical&show_icons=true&hide_border=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=nhathao512&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhathao512&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
     
