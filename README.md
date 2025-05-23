@@ -6,11 +6,13 @@
 
 ## 🌐 Socials  
 
+
 <div align="center">
 
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vo.nhathao.512)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nhathao512_)
+  [![Instagram](https://img.shields.io/badge/Instagram-fc03be?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nhathao512_)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhathao512/)
+  [![Gmail](https://img.shields.io/badge/Gmail-fc0303?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vonhathao641@gmail.com)
 
 </div>
 
