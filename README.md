@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm NhatHao</h2>
 <p align="center">
-  <h3 align="center">A future Software Developer from Vietnam 👨‍💻</h3>
+  <h3 align="center">A future Software Developer from Vietnam </h3>
   
 </p>
 
